@@ -1,0 +1,38 @@
+{
+  "point": {
+    "dim": 0,
+    "blockPos": {
+      "field_177962_a": -453,
+      "field_177960_b": 73,
+      "field_177961_c": -369
+    },
+    "x": -453,
+    "y": 74,
+    "z": -369
+  },
+  "owner": "b962c9dc-08d2-4dab-ad51-07c02caeb382",
+  "inventory": [
+    {
+      "itemID": "minecraft:lead",
+      "stackSize": 1,
+      "damage": 0
+    },
+    {
+      "itemID": "minecraft:double_plant",
+      "stackSize": 1,
+      "damage": 0,
+      "compound": {
+        "c:display": {
+          "S:Lore": [
+            "Good Job You Completed The Ark Map"
+          ],
+          "S:Name": "Trophy"
+        }
+      }
+    }
+  ],
+  "xp": 0,
+  "protTime": -40636938,
+  "hasFencePost": true,
+  "isProtected": false
+}

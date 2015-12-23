@@ -1,0 +1,10 @@
+logs/*
+active
+server.jar
+*.zip
+ForgeEssentials/*
+/v1
+/v2
+/v3
+mods-disabled
+crash-reports

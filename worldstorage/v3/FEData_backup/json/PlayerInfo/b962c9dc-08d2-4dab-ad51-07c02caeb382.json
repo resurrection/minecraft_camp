@@ -1,0 +1,20 @@
+{
+  "ident": "(b962c9dc-08d2-4dab-ad51-07c02caeb382|bslezak)",
+  "lastTeleportOrigin": {
+    "dim": 0,
+    "pitch": 0.0,
+    "yaw": 0.0,
+    "xd": 16.5,
+    "yd": 68.0,
+    "zd": -111.5
+  },
+  "lastTeleportTime": 1450655575303,
+  "selDim": 0,
+  "inventoryGroups": {},
+  "activeInventoryGroup": "default",
+  "timePlayed": 109953435,
+  "firstLogin": "Dec 4, 2015 8:17:41 PM",
+  "lastLogin": "Dec 22, 2015 12:59:09 PM",
+  "lastLogout": "Dec 22, 2015 12:58:28 PM",
+  "namedTimeout": {}
+}

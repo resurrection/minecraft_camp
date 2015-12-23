@@ -1,0 +1,9 @@
+#Permissions for user $FE_ECONOMY with UUID fefefefe-fefe-fefe-fefe-fefefefefeec
+#DO NOT MODIFY OR REMOVE fe.internal PERMISSIONS UNLESS YOU KNOW WHAT YOU DO!
+#After you modified permissions in this file, remember to directly run "/feperm reload", or the changes get overwritten next time permissions are saved by the server.
+#Tue Dec 22 13:06:59 CST 2015
+fe.internal.player.known=true
+fe.internal.player.name=$FE_ECONOMY
+fe.internal.player.uuid=fefefefe-fefe-fefe-fefe-fefefefefeec
+command.give=true
+fe.economy.command.wallet.*=true
