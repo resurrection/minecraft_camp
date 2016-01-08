@@ -2,19 +2,19 @@
   "ident": "(01beba2c-d283-475e-990a-d0fe76a02349|RezWest)",
   "lastTeleportOrigin": {
     "dim": 0,
-    "pitch": 14.099903,
-    "yaw": -153.04977,
-    "xd": 344.9436725378917,
-    "yd": 72.0,
-    "zd": -607.666812691413
+    "pitch": 4.499975,
+    "yaw": 352.34982,
+    "xd": -22.712842812576888,
+    "yd": 68.0,
+    "zd": -484.4588333255648
   },
-  "lastTeleportTime": 1451942505201,
+  "lastTeleportTime": 1452226498553,
   "selDim": 0,
   "inventoryGroups": {},
   "activeInventoryGroup": "default",
-  "timePlayed": 104479149,
+  "timePlayed": 120958644,
   "firstLogin": "Dec 4, 2015 9:44:23 PM",
-  "lastLogin": "Jan 4, 2016 3:21:36 PM",
-  "lastLogout": "Jan 4, 2016 3:35:18 PM",
+  "lastLogin": "Jan 7, 2016 8:07:50 PM",
+  "lastLogout": "Jan 7, 2016 8:15:14 PM",
   "namedTimeout": {}
 }

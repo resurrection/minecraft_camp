@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Data of area messages</comment>
+<entry key="name">messages</entry>
+<entry key="x2">799</entry>
+<entry key="id">6</entry>
+<entry key="x1">401</entry>
+<entry key="z2">199</entry>
+<entry key="z1">1</entry>
+<entry key="shape">BOX</entry>
+<entry key="y2">255</entry>
+<entry key="y1">0</entry>
+</properties>

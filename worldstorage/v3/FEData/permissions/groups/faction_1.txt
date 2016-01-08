@@ -1,6 +1,5 @@
-#Permissions for user grandpabivins with UUID <unknown-uuid>
+#Permissions for group faction_1
 #DO NOT MODIFY OR REMOVE fe.internal PERMISSIONS UNLESS YOU KNOW WHAT YOU DO!
 #After you modified permissions in this file, remember to directly run "/feperm reload", or the changes get overwritten next time permissions are saved by the server.
-#Wed Jan 06 11:21:25 CST 2016
-fe.internal.player.known=true
-fe.internal.player.name=grandpabivins
+#Thu Jan 07 23:21:56 PST 2016
+fe.faction.data.name=Basket

@@ -1,12 +1,20 @@
 {
   "ident": "(7560e99e-73d7-471c-9b4c-71c7c87b6e0a|diamonddog2016)",
-  "lastTeleportTime": 0,
+  "lastTeleportOrigin": {
+    "dim": 0,
+    "pitch": 10.500033,
+    "yaw": -275.55002,
+    "xd": 674.0551727752479,
+    "yd": 66.0,
+    "zd": -386.3050148776205
+  },
+  "lastTeleportTime": 1452226444746,
   "selDim": 0,
   "inventoryGroups": {},
   "activeInventoryGroup": "default",
-  "timePlayed": 145,
+  "timePlayed": 4030142,
   "firstLogin": "Jan 6, 2016 11:09:05 AM",
-  "lastLogin": "Jan 6, 2016 11:09:05 AM",
-  "lastLogout": "Jan 6, 2016 11:09:05 AM",
+  "lastLogin": "Jan 7, 2016 7:08:09 PM",
+  "lastLogout": "Jan 7, 2016 8:15:19 PM",
   "namedTimeout": {}
 }
