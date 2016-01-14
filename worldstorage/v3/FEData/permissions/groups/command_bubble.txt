@@ -1,7 +1,7 @@
 #Permissions for group command_bubble
 #DO NOT MODIFY OR REMOVE fe.internal PERMISSIONS UNLESS YOU KNOW WHAT YOU DO!
 #After you modified permissions in this file, remember to directly run "/feperm reload", or the changes get overwritten next time permissions are saved by the server.
-#Thu Jan 07 23:21:56 PST 2016
+#Sun Jan 10 15:51:20 CST 2016
 fe.internal.group.priority=45
 fe.protection.break.*=false
 fe.protection.interact.*=false
