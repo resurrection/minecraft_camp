@@ -1,7 +1,7 @@
 #Permissions for user zman200307 with UUID b7bb0ddf-7941-4a21-8d56-d835771dbc6b
 #DO NOT MODIFY OR REMOVE fe.internal PERMISSIONS UNLESS YOU KNOW WHAT YOU DO!
 #After you modified permissions in this file, remember to directly run "/feperm reload", or the changes get overwritten next time permissions are saved by the server.
-#Mon Jan 18 16:20:38 CST 2016
+#Thu Jan 21 09:39:47 CST 2016
 fe.internal.player.name=zman200307
 fe.internal.player.uuid=b7bb0ddf-7941-4a21-8d56-d835771dbc6b
 fe.protection.damageby.*=false
