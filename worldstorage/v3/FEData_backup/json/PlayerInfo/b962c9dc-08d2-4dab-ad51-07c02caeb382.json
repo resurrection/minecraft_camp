@@ -2,19 +2,19 @@
   "ident": "(b962c9dc-08d2-4dab-ad51-07c02caeb382|bslezak)",
   "lastTeleportOrigin": {
     "dim": 0,
-    "pitch": 41.10002,
-    "yaw": 113.55123,
-    "xd": 666.7163075429299,
-    "yd": 77.83953858335515,
-    "zd": -388.15104070440157
+    "pitch": 33.900005,
+    "yaw": 291.15002,
+    "xd": -185.42975818324814,
+    "yd": 72.4028632092173,
+    "zd": -171.81289484631284
   },
-  "lastTeleportTime": 1452235750684,
+  "lastTeleportTime": 1458147222130,
   "selDim": 0,
   "inventoryGroups": {},
   "activeInventoryGroup": "default",
-  "timePlayed": 163063210,
+  "timePlayed": 223175108,
   "firstLogin": "Dec 4, 2015 8:17:41 PM",
-  "lastLogin": "Jan 7, 2016 10:48:12 PM",
-  "lastLogout": "Jan 7, 2016 11:21:49 PM",
+  "lastLogin": "Mar 16, 2016 11:08:07 AM",
+  "lastLogout": "Mar 16, 2016 12:01:19 PM",
   "namedTimeout": {}
 }
