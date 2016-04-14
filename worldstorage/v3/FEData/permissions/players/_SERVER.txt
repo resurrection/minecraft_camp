@@ -1,7 +1,7 @@
 #Permissions for user $SERVER with UUID fefefefe-fefe-fefe-fefe-fefefefefefe
 #DO NOT MODIFY OR REMOVE fe.internal PERMISSIONS UNLESS YOU KNOW WHAT YOU DO!
 #After you modified permissions in this file, remember to directly run "/feperm reload", or the changes get overwritten next time permissions are saved by the server.
-#Thu Apr 14 12:32:06 PDT 2016
+#Thu Apr 14 15:03:33 CDT 2016
 fe.internal.player.known=true
 fe.internal.player.name=$SERVER
 fe.internal.player.uuid=fefefefe-fefe-fefe-fefe-fefefefefefe
