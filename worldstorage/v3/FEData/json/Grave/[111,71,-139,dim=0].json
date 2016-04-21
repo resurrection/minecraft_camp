@@ -1,0 +1,38 @@
+{
+  "point": {
+    "dim": 0,
+    "blockPos": {
+      "field_177962_a": 111,
+      "field_177960_b": 70,
+      "field_177961_c": -139
+    },
+    "x": 111,
+    "y": 71,
+    "z": -139
+  },
+  "owner": "2ac3f1dc-d558-4fab-8b5d-dd3ce955ea80",
+  "inventory": [
+    {
+      "itemID": "minecraft:double_plant",
+      "stackSize": 1,
+      "damage": 0,
+      "compound": {
+        "c:display": {
+          "S:Lore": [
+            "I Completed The Tree Of Knowlage Map"
+          ],
+          "S:Name": "Trophy"
+        }
+      }
+    },
+    {
+      "itemID": "minecraft:skull",
+      "stackSize": 1,
+      "damage": 4
+    }
+  ],
+  "xp": 0,
+  "protTime": -1643125739,
+  "hasFencePost": true,
+  "isProtected": false
+}
