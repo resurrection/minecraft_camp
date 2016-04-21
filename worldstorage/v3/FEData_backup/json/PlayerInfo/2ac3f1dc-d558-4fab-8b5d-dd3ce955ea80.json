@@ -2,19 +2,19 @@
   "ident": "(2ac3f1dc-d558-4fab-8b5d-dd3ce955ea80|CAPTAINCUTE1234)",
   "lastTeleportOrigin": {
     "dim": 0,
-    "pitch": 29.099972,
-    "yaw": -64.95032,
-    "xd": 669.4437685615721,
-    "yd": 66.0,
-    "zd": -385.95869706249414
+    "pitch": 11.09999,
+    "yaw": -137.54999,
+    "xd": 43.58987607119553,
+    "yd": 76.0,
+    "zd": 590.4912521874231
   },
-  "lastTeleportTime": 1452226466195,
+  "lastTeleportTime": 1459623527632,
   "selDim": 0,
   "inventoryGroups": {},
   "activeInventoryGroup": "default",
-  "timePlayed": 9475618,
+  "timePlayed": 9827348,
   "firstLogin": "Dec 15, 2015 1:39:58 PM",
-  "lastLogin": "Jan 7, 2016 7:08:11 PM",
-  "lastLogout": "Jan 7, 2016 7:06:34 PM",
+  "lastLogin": "Apr 2, 2016 1:53:49 PM",
+  "lastLogout": "Apr 2, 2016 1:59:40 PM",
   "namedTimeout": {}
 }

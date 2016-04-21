@@ -1,11 +1,11 @@
 #Permissions for group _ALL_
 #DO NOT MODIFY OR REMOVE fe.internal PERMISSIONS UNLESS YOU KNOW WHAT YOU DO!
 #After you modified permissions in this file, remember to directly run "/feperm reload", or the changes get overwritten next time permissions are saved by the server.
-#Wed Mar 09 12:36:23 CST 2016
+#Thu Apr 14 12:32:06 PDT 2016
 fe.internal.group=true
 fe.internal.group.name=players
 fe.internal.group.priority=0
-fe.internal.spawn.location=[16,68,-112,dim\=0]
+fe.internal.spawn.location=[43,74,592,dim\=0]
 fe.protection.break.*=false
 fe.protection.explosion=false
 fe.protection.place.*=false

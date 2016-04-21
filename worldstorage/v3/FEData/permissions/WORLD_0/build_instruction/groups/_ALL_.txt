@@ -1,6 +1,6 @@
 #Permissions for group _ALL_
 #DO NOT MODIFY OR REMOVE fe.internal PERMISSIONS UNLESS YOU KNOW WHAT YOU DO!
 #After you modified permissions in this file, remember to directly run "/feperm reload", or the changes get overwritten next time permissions are saved by the server.
-#Thu Apr 21 14:21:35 CDT 2016
+#Thu Apr 21 14:39:47 CDT 2016
 fe.protection.break.*=false
 fe.protection.place.*=false
