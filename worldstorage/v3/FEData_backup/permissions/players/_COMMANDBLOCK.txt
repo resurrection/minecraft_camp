@@ -1,7 +1,7 @@
 #Permissions for user $COMMANDBLOCK with UUID fefefefe-fefe-fefe-fefe-fefefefefecb
 #DO NOT MODIFY OR REMOVE fe.internal PERMISSIONS UNLESS YOU KNOW WHAT YOU DO!
 #After you modified permissions in this file, remember to directly run "/feperm reload", or the changes get overwritten next time permissions are saved by the server.
-#Wed Sep 07 19:31:27 CDT 2016
+#Tue Sep 20 10:55:04 CDT 2016
 fe.internal.player.known=true
 fe.internal.player.name=$COMMANDBLOCK
 fe.internal.player.uuid=fefefefe-fefe-fefe-fefe-fefefefefecb

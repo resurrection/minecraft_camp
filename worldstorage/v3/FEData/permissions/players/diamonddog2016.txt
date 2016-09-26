@@ -1,7 +1,7 @@
 #Permissions for user diamonddog2016 with UUID 7560e99e-73d7-471c-9b4c-71c7c87b6e0a
 #DO NOT MODIFY OR REMOVE fe.internal PERMISSIONS UNLESS YOU KNOW WHAT YOU DO!
 #After you modified permissions in this file, remember to directly run "/feperm reload", or the changes get overwritten next time permissions are saved by the server.
-#Tue Sep 20 10:18:52 CDT 2016
+#Mon Sep 26 17:08:24 CDT 2016
 fe.internal.player.known=true
 fe.internal.player.name=diamonddog2016
 fe.internal.player.uuid=7560e99e-73d7-471c-9b4c-71c7c87b6e0a
