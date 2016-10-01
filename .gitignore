@@ -8,3 +8,6 @@ ForgeEssentials/*
 /v3
 mods-disabled
 crash-reports
+worldstorage/v3/FEData/json/Grave/
+worldstorage/v3/FEData/json/Mails/
+worldstorage/v3/FEData/json/PlayerInfo/
