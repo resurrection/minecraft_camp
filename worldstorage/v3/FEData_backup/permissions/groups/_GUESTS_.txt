@@ -1,7 +1,7 @@
 #Permissions for group _GUESTS_
 #DO NOT MODIFY OR REMOVE fe.internal PERMISSIONS UNLESS YOU KNOW WHAT YOU DO!
 #After you modified permissions in this file, remember to directly run "/feperm reload", or the changes get overwritten next time permissions are saved by the server.
-#Mon Sep 26 17:08:24 CDT 2016
+#Sun Oct 09 16:40:37 CDT 2016
 fe.internal.group=true
 fe.internal.group.priority=10
 fe.internal.prefix=[GUEST]

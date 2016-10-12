@@ -1,7 +1,7 @@
 #Permissions for group _ALL_
 #DO NOT MODIFY OR REMOVE fe.internal PERMISSIONS UNLESS YOU KNOW WHAT YOU DO!
 #After you modified permissions in this file, remember to directly run "/feperm reload", or the changes get overwritten next time permissions are saved by the server.
-#Fri Sep 30 19:21:31 CDT 2016
+#Wed Oct 12 16:46:04 CDT 2016
 fe.internal.group=true
 fe.internal.group.name=players
 fe.internal.group.priority=0
